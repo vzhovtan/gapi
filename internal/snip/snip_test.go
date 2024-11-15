@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	"gapi/internal/db"
-	"gapi/internal/snip"
+	"github.com/vzhovtan/gapi/internal/db"
+	"github.com/vzhovtan/gapi/internal/snip"
 )
 
 type MockDb struct {

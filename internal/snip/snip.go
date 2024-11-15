@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"gapi/internal/db"
+	"github.com/vzhovtan/gapi/internal/db"
 )
 
 type Manager interface {

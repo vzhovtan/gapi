@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"gapi/internal/db"
-	"gapi/internal/snip"
+	"github.com/vzhovtan/gapi/internal/db"
+	"github.com/vzhovtan/gapi/internal/snip"
 )
 
 type Server struct {

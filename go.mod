@@ -1,4 +1,4 @@
-module gapi
+module github.com/vzhovtan/gapi
 
 go 1.23
 

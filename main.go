@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"gapi/internal/db"
-	"gapi/internal/snip"
-	"gapi/internal/transport"
+	"github.com/vzhovtan/gapi/internal/db"
+	"github.com/vzhovtan/gapi/internal/snip"
+	"github.com/vzhovtan/gapi/internal/transport"
 )
 
 func main() {
