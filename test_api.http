@@ -1,0 +1,12 @@
+### GET request to get ToDo
+GET http://localhost:8080/snip
+
+### GET request to esearch ToDo
+GET localhost:8080/search?q=get
+
+### POST request to submit new ToDo
+POST localhost:8080/snip
+
+{
+"snippet": "get things done again"
+}
